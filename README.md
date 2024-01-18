@@ -7,9 +7,9 @@ I scraped the New York Rare Bird Alert report published on [eBird](https://ebird
 Then I used DataWrapper to visualize the table I made from scraping the data, and created a website publishing this daily updated table, which shows the latest records of rare birds in New York.
 
 ## Links
-* Link to the original [rare bird alert website](https://ebird.org/alert/summary?sid=SN35466)
+* Link to the original [Rare Bird Alert website](https://ebird.org/alert/summary?sid=SN35466).
 
-* Link to the [final website](https://juliezhn.github.io/NYC_RareBirds/) I created
+* Link to the [Final Website](https://juliezhn.github.io/NYC_RareBirds/) I created.
 
 ## Contact
 Julie Zhu, Columbia Data Journalism Student, [hz2917@columbia.edu](mailto:hz2917@columbia.edu)
