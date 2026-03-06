@@ -1,5 +1,4 @@
 name,location,link_url
-Snow Goose,"Beaver Island State Park, Grand Island US-NY 42.95853, -78.94448, Erie, New York, United States",/species/snogoo/US-NY
 Snow Goose,"Buffalo River Ohio St. Fishing Access Site, Erie, New York, United States",/species/snogoo/US-NY
 Snow Goose,"Buffalo River Ohio St. Fishing Access Site, Erie, New York, United States",/species/snogoo/US-NY
 Snow Goose,"Buffalo River Ohio St. Fishing Access Site, Erie, New York, United States",/species/snogoo/US-NY
@@ -7,7 +6,8 @@ Snow Goose,"Buffalo River Ohio St. Fishing Access Site, Erie, New York, United S
 Snow Goose,"Buffalo River Ohio St. Fishing Access Site, Erie, New York, United States",/species/snogoo/US-NY
 Snow Goose,"Buffalo RiverWorks, Erie, New York, United States",/species/snogoo/US-NY
 Snow Goose,"Buffalo RiverWorks, Erie, New York, United States",/species/snogoo/US-NY
-Snow Goose,"Father Conway Park - Soccer Field, Erie, New York, United States",/species/snogoo/US-NY
+Snow Goose,"Buffalo RiverWorks, Erie, New York, United States",/species/snogoo/US-NY
+Snow Goose,"Buffalo Scholastic Rowing Assn., Erie, New York, United States",/species/snogoo/US-NY
 Ross's Goose,"815 New York 318, Waterloo, New York, US (42.955, -76.909), Seneca, New York, United States",/species/rosgoo/US-NY
 Ross's Goose,"815 New York 318, Waterloo, New York, US (42.955, -76.909), Seneca, New York, United States",/species/rosgoo/US-NY
 Ross's Goose,"Olean, NY, Cattaraugus, New York, United States",/species/rosgoo/US-NY
@@ -36,9 +36,8 @@ Barnacle Goose,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United 
 Barnacle Goose,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/bargoo/US-NY
 Barnacle Goose,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/bargoo/US-NY
 Barnacle Goose,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/bargoo/US-NY
-Cackling Goose,"32 Captree Island, West Islip US-NY 40.64466, -73.26971, Suffolk, New York, United States",/species/cacgoo1/US-NY
+Cackling Goose,"Bond Lake County Park--Bond Lake, Niagara, New York, United States",/species/cacgoo1/US-NY
 Cackling Goose,"Lake Road Guiderail in Wilson East End, Niagara, New York, United States",/species/cacgoo1/US-NY
-Cackling Goose,"Phoenix Dam and Lock, Oswego, New York, United States",/species/cacgoo1/US-NY
 Cackling Goose,"Southaven County Park, Suffolk, New York, United States",/species/cacgoo1/US-NY
 Cackling Goose,"Southaven County Park, Suffolk, New York, United States",/species/cacgoo1/US-NY
 Cackling Goose,"Wilson Pier, Niagara, New York, United States",/species/cacgoo1/US-NY
@@ -47,17 +46,17 @@ Canada Goose (canadensis Group),"Aqua Lane Park--Sheridan Boat Launch, Erie, New
 Snow x Canada Goose (hybrid),"Braddock Bay Park--Hawk Watch, Monroe, New York, United States",/species/x00197/US-NY
 Snow x Canada Goose (hybrid),"Braddock Bay--North Marina, Monroe, New York, United States",/species/x00197/US-NY
 Snow x Canada Goose (hybrid),"Braddock Bay--North Marina, Monroe, New York, United States",/species/x00197/US-NY
+Mute Swan,"288 Broad Bay Circle, Machias, New York, US (42.427, -78.487), Cattaraugus, New York, United States",/species/mutswa/US-NY
 Mute Swan,"Carl Schurz Park, New York, New York, United States",/species/mutswa/US-NY
 Mute Swan,"Confluence Park, Owego, Tioga, New York, United States",/species/mutswa/US-NY
 Mute Swan,"Confluence Park, Owego, Tioga, New York, United States",/species/mutswa/US-NY
 Mute Swan,"East River, New York, New York, United States",/species/mutswa/US-NY
-Mute Swan,"East River, New York US-NY 40.72074, -73.96561, New York, New York, United States",/species/mutswa/US-NY
-Mute Swan,"NYC Ferry - South Williamsburg stop, New York, New York, United States",/species/mutswa/US-NY
-Mute Swan,"NYC Ferry - South Williamsburg stop, New York, New York, United States",/species/mutswa/US-NY
+Mute Swan,"East River, New York, New York, United States",/species/mutswa/US-NY
+Mute Swan,"Lime Lake, Machias US-NY (42.4290,-78.4794), Cattaraugus, New York, United States",/species/mutswa/US-NY
 Mute Swan,"Seneca Lake, Salt Point Rd., Schuyler, New York, United States",/species/mutswa/US-NY
 Mute Swan,"Wallabout Channel, New York US-NY (40.7090,-73.9711), New York, New York, United States",/species/mutswa/US-NY
-Trumpeter Swan,"East River, New York, New York, United States",/species/truswa/US-NY
-Trumpeter Swan,"Seneca Park, Monroe, New York, United States",/species/truswa/US-NY
+Trumpeter Swan,"Berry Rd. Marsh, Chautauqua, New York, United States",/species/truswa/US-NY
+Trumpeter Swan,"Wallabout Channel, Kings, New York, United States",/species/truswa/US-NY
 Trumpeter Swan,"Wallabout Channel, Kings, New York, United States",/species/truswa/US-NY
 Trumpeter Swan,"Wallabout Channel, Kings, New York, United States",/species/truswa/US-NY
 Trumpeter Swan,"Wallabout Channel, Kings, New York, United States",/species/truswa/US-NY
@@ -67,15 +66,12 @@ Trumpeter Swan,"Wallabout Channel, Kings, New York, United States",/species/trus
 Trumpeter Swan,"Wallabout Channel, Kings, New York, United States",/species/truswa/US-NY
 Tundra Swan,"Black Dirt - Celery Ave, Orange, New York, United States",/species/tunswa/US-NY
 Tundra Swan,"Black Dirt Region--Celery Ave., Orange, New York, United States",/species/tunswa/US-NY
-Tundra Swan,"Black Dirt Region--Celery Ave., Orange, New York, United States",/species/tunswa/US-NY
-Tundra Swan,"Falls @ Celery Ave., Orange, New York, United States",/species/tunswa/US-NY
-Tundra Swan,"Wallabout Channel, Kings, New York, United States",/species/tunswa/US-NY
 Wood Duck,"Allegheny River Valley Trail, St. Bonaventure Campus, Cattaraugus, New York, United States",/species/wooduc/US-NY
 Wood Duck,"Genesee Valley WMA--Otis Smith Road (Allegany Co.), Allegany, New York, United States",/species/wooduc/US-NY
-Blue-winged Teal,"98-18 Croton Lake Road, Croton-on-Hudson, New York, US (41.235, -73.827), Westchester, New York, United States",/species/buwtea/US-NY
 Gadwall (Common),"Myers Point--Lansing Harbor Marina (private), Tompkins, New York, United States",/species/gadwal/US-NY
 Eurasian Wigeon,"Agawam Lake, Suffolk, New York, United States",/species/eurwig/US-NY
 Eurasian Wigeon,"Agawam Lake, Suffolk, New York, United States",/species/eurwig/US-NY
+Eurasian Wigeon,"Agawam Lake, Suffolk, New York, United States",/species/eurwig/US-NY
 Eurasian Wigeon,"River Rd., Endwell, Broome, New York, United States",/species/eurwig/US-NY
 Eurasian Wigeon,"River Rd., Endwell, Broome, New York, United States",/species/eurwig/US-NY
 Eurasian Wigeon,"River Rd., Endwell, Broome, New York, United States",/species/eurwig/US-NY
@@ -89,8 +85,8 @@ American Wigeon,"Governors Island (N.Y. County), New York, New York, United Stat
 American Wigeon,"Governors Island (N.Y. County), New York, New York, United States",/species/amewig/US-NY
 American Wigeon,"Governors Island (N.Y. County), New York, New York, United States",/species/amewig/US-NY
 American Wigeon,"Governors Island (N.Y. County), New York, New York, United States",/species/amewig/US-NY
-American Wigeon,"Randalls Island, New York, New York, United States",/species/amewig/US-NY
-Green-winged Teal,"Batavia Wastewater Treatment Plant, Genesee, New York, United States",/species/gnwtea/US-NY
+American Wigeon,"Governors Island (N.Y. County), New York, New York, United States",/species/amewig/US-NY
+American Wigeon,"Governors Island (N.Y. County), New York, New York, United States",/species/amewig/US-NY
 Green-winged Teal (Eurasian),"East Shore Park, Tompkins, New York, United States",/species/gnwtea/US-NY
 Green-winged Teal (Eurasian),"East Shore Park, Tompkins, New York, United States",/species/gnwtea/US-NY
 Green-winged Teal (Eurasian),"East Shore Park, Tompkins, New York, United States",/species/gnwtea/US-NY
@@ -98,16 +94,17 @@ Green-winged Teal (Eurasian),"Hog Hole (Allan H. Treman State Marine Park), Tomp
 Green-winged Teal (Eurasian),"Hog Hole (Allan H. Treman State Marine Park), Tompkins, New York, United States",/species/gnwtea/US-NY
 Green-winged Teal (Eurasian),"NY:TOM:Ithaca: E Shore Pk, Tompkins, New York, United States",/species/gnwtea/US-NY
 Green-winged Teal,"Onondaga Lake Park--Marshy Spits Area, Onondaga, New York, United States",/species/gnwtea/US-NY
-Redhead,"Oxford Boat Launch, Chenango, New York, United States",/species/redhea/US-NY
+Tufted Duck,"Harris Park, Cayuga, Cayuga, New York, United States",/species/tufduc/US-NY
+Tufted Duck,"Harris Park, Cayuga, Cayuga, New York, United States",/species/tufduc/US-NY
+Greater Scaup,"Governors Island (N.Y. County), New York, New York, United States",/species/gresca/US-NY
+Greater Scaup,"Governors Island (N.Y. County), New York, New York, United States",/species/gresca/US-NY
 Greater Scaup,"Inwood Hill Park, New York, New York, United States",/species/gresca/US-NY
 Greater Scaup,"Inwood Hill Park, New York, New York, United States",/species/gresca/US-NY
 Greater Scaup,"Inwood Hill Park--Dyckman Fields, New York, New York, United States",/species/gresca/US-NY
 Greater Scaup,"Randalls Island, New York, New York, United States",/species/gresca/US-NY
 Greater Scaup,"Riverside Park South (59th-72nd St.), New York, New York, United States",/species/gresca/US-NY
 Greater Scaup,"Riverside Park--79th St. Boat Basin and vicinity, New York, New York, United States",/species/gresca/US-NY
-Greater Scaup,"Riverside Park--79th St. Boat Basin and vicinity, New York, New York, United States",/species/gresca/US-NY
 Greater Scaup,"Riverside Park--South of 96th St., New York, New York, United States",/species/gresca/US-NY
-Greater Scaup,"West Harlem Piers Park, New York, New York, United States",/species/gresca/US-NY
 Lesser Scaup,"Governors Island (N.Y. County), New York, New York, United States",/species/lessca/US-NY
 Lesser Scaup,"Inwood Hill Park--Dyckman Fields, New York, New York, United States",/species/lessca/US-NY
 Lesser Scaup,"Inwood Hill Park--Dyckman Fields, New York, New York, United States",/species/lessca/US-NY
@@ -117,9 +114,10 @@ Lesser Scaup,"Riverside Park--79th St. Boat Basin and vicinity, New York, New Yo
 Lesser Scaup,"Riverside Park--79th St. Boat Basin and vicinity, New York, New York, United States",/species/lessca/US-NY
 Lesser Scaup,"Riverside Park--South of 96th St., New York, New York, United States",/species/lessca/US-NY
 Lesser Scaup,"South Williamsburg Ferry Terminal, New York, New York, United States",/species/lessca/US-NY
+King Eider,"Gardiners Bay, East Hampton US-NY 41.02839, -72.11344, Suffolk, New York, United States",/species/kineid/US-NY
 King Eider,"Inwood Hill Park--Spuyten Duyvil Creek, New York, New York, United States",/species/kineid/US-NY
 Harlequin Duck,"Bradley Beach, Ft. Edward, Washington, New York, United States",/species/harduc/US-NY
-Harlequin Duck,"Ft. Edward Yacht Basin, Washington, New York, United States",/species/harduc/US-NY
+Harlequin Duck,"Bradley Beach, Ft. Edward, Washington, New York, United States",/species/harduc/US-NY
 Harlequin Duck,"Ft. Edward Yacht Basin, Washington, New York, United States",/species/harduc/US-NY
 Harlequin Duck,"Ft. Edward Yacht Basin, Washington, New York, United States",/species/harduc/US-NY
 Harlequin Duck,"Ft. Edward Yacht Basin, Washington, New York, United States",/species/harduc/US-NY
@@ -150,20 +148,23 @@ Common Goldeneye,"Fort Washington Park--S of GWB (Little Red Lighthouse-155th St
 Common Goldeneye,"Fort Washington Park--S of GWB (Little Red Lighthouse-155th St.), New York, New York, United States",/species/comgol/US-NY
 Common Goldeneye,"Fort Washington Park--S of GWB (Little Red Lighthouse-155th St.), New York, New York, United States",/species/comgol/US-NY
 Common Goldeneye,"Fort Washington Park--S of GWB (Little Red Lighthouse-155th St.), New York, New York, United States",/species/comgol/US-NY
-Common Goldeneye,"Governors Island (N.Y. County), New York, New York, United States",/species/comgol/US-NY
+Common Goldeneye,"Hudson River Park--Tribeca Upland (Chambers to W Houston St.), New York, New York, United States",/species/comgol/US-NY
 Common Goldeneye,"Hudson River Park--Tribeca Upland (Chambers to W Houston St.), New York, New York, United States",/species/comgol/US-NY
 Common Goldeneye,"Hudson River Park--Tribeca Upland (Chambers to W Houston St.), New York, New York, United States",/species/comgol/US-NY
 Common Goldeneye,"Hudson River Park--Tribeca Upland (Chambers to W Houston St.), New York, New York, United States",/species/comgol/US-NY
 Common Goldeneye,"Randalls Island, New York, New York, United States",/species/comgol/US-NY
 Barrow's Goldeneye,"Blockhouse Park, Saratoga, New York, United States",/species/bargol/US-NY
-Barrow's Goldeneye,"Blockhouse Park, Saratoga, New York, United States",/species/bargol/US-NY
 Barrow's Goldeneye,"Cumberland Head Ferry Dock, Clinton, New York, United States",/species/bargol/US-NY
 Barrow's Goldeneye,"Kingston Point, Ulster, New York, United States",/species/bargol/US-NY
 Barrow's Goldeneye,"Kingston Point, Ulster, New York, United States",/species/bargol/US-NY
+Barrow's Goldeneye,"Kingston Point, Ulster, New York, United States",/species/bargol/US-NY
 Barrow's Goldeneye,"Kingston Point Beach, Ulster, New York, United States",/species/bargol/US-NY
+Barrow's Goldeneye,"North Street, Ulster, New York, United States",/species/bargol/US-NY
 Barrow's Goldeneye,"Robert Moses SP, Massena--Hawkins Point, St. Lawrence, New York, United States",/species/bargol/US-NY
-Barrow's Goldeneye,"Stillwater Blockhouse Park, Saratoga, New York, United States",/species/bargol/US-NY
-Common Merganser,"Prospect Park, Kings, New York, United States",/species/commer/US-NY
+Barrow's Goldeneye,"Robert Moses SP, Massena--Hawkins Point, St. Lawrence, New York, United States",/species/bargol/US-NY
+Common x Barrow's Goldeneye (hybrid),"Blockhouse Park, Saratoga, New York, United States",/species/cxbgol1/US-NY
+Common x Barrow's Goldeneye (hybrid),"Stillwater Blockhouse Park, Saratoga, New York, United States",/species/cxbgol1/US-NY
+Common Merganser,"Central Park, New York, New York, United States",/species/commer/US-NY
 Common Merganser,"Prospect Park, Kings, New York, United States",/species/commer/US-NY
 Common Merganser,"Prospect Park, Kings, New York, United States",/species/commer/US-NY
 Common Merganser,"Prospect Park, Kings, New York, United States",/species/commer/US-NY
@@ -172,6 +173,7 @@ Common Merganser,"Prospect Park, Kings, New York, United States",/species/commer
 Common Merganser,"Prospect Park, Kings, New York, United States",/species/commer/US-NY
 Common Merganser,"Wallabout Channel, Kings, New York, United States",/species/commer/US-NY
 Common Merganser,"Wallabout Channel, Kings, New York, United States",/species/commer/US-NY
+Red-breasted Merganser,"Piermont Pier, Rockland, New York, United States",/species/rebmer/US-NY
 Red-breasted Merganser,"Piermont Pier, Rockland, New York, United States",/species/rebmer/US-NY
 Ruddy Duck,"Ft. Edward Yacht Basin, Washington, New York, United States",/species/rudduc/US-NY
 Ruddy Duck,"Ft. Edward Yacht Basin, Washington, New York, United States",/species/rudduc/US-NY
@@ -186,6 +188,8 @@ Wild Turkey,"South Ferry incl. Staten I. + Gov. I. Ferry Terminals, New York, Ne
 Wild Turkey,"The Battery, Manhattan, New York, New York, United States",/species/wiltur/US-NY
 Wild Turkey,"The Battery, New York US-NY (40.7022,-74.0145), New York, New York, United States",/species/wiltur/US-NY
 Wild Turkey,"The Battery, New York US-NY (40.7022,-74.0145), New York, New York, United States",/species/wiltur/US-NY
+Ring-necked Pheasant,"Berkshire Rd., Dover, Dutchess, US-NY, Dutchess, New York, United States",/species/rinphe1/US-NY
+Ring-necked Pheasant,"Fishkill Creek / Clove Mountain Rd, Dutchess, New York, United States",/species/rinphe1/US-NY
 Sandhill Crane,"Catharine Creek WMA--Catharine Valley Trail, Schuyler, New York, United States",/species/sancra/US-NY
 Sandhill Crane,"Conewango Swamp WMA, Cattaraugus, New York, United States",/species/sancra/US-NY
 American Oystercatcher,"Floyd Bennett Field, Kings, New York, United States",/species/ameoys/US-NY
@@ -202,19 +206,17 @@ Killdeer,"7968 U.S. 62, South Dayton, New York, US (42.345, -79.004), Cattaraugu
 Killdeer,"Bath, NY, Steuben, New York, United States",/species/killde/US-NY
 Killdeer,"Dunkirk Airport (DKK), Chautauqua, New York, United States",/species/killde/US-NY
 Killdeer,"Genesee County Park and Forest, Genesee, New York, United States",/species/killde/US-NY
-Killdeer,"Rt. 13 Pyrotex, Cortland, New York, United States",/species/killde/US-NY
 Killdeer,"Sheridan Memorial Field-Center Rd., Chautauqua, New York, United States",/species/killde/US-NY
 Piping Plover,"Jones Beach SP--Coast Guard Station, Nassau, New York, United States",/species/pipplo/US-NY
 Piping Plover,"Jones Beach SP--Coast Guard Station, Nassau, New York, United States",/species/pipplo/US-NY
 Piping Plover,"Jones Beach SP--West End beach and jetty, Nassau, New York, United States",/species/pipplo/US-NY
-Long-billed Dowitcher,"Jamaica Bay Wildlife Refuge--West Pond, Queens, New York, United States",/species/lobdow/US-NY
 American Woodcock,"County Route 3, Columbia, New York, United States",/species/amewoo/US-NY
 American Woodcock,"highland acres, Chautauqua, New York, United States",/species/amewoo/US-NY
 American Woodcock,"home, Chautauqua, New York, United States",/species/amewoo/US-NY
 Wilson's Snipe,"Maine Hill Road (private), Cattaraugus, New York, United States",/species/wilsni1/US-NY
 Lesser Yellowlegs,"Calvert Vaux Park (Dreier-Offerman Park), Kings, New York, United States",/species/lesyel/US-NY
-Purple Sandpiper,"Niagara Falls SP--Three Sisters Islands, Niagara, New York, United States",/species/pursan/US-NY
-Purple Sandpiper,"Niagara Falls SP--Three Sisters Islands, Niagara, New York, United States",/species/pursan/US-NY
+Purple Sandpiper,"Governors Island (N.Y. County), New York, New York, United States",/species/pursan/US-NY
+Purple Sandpiper,"Governors Island (N.Y. County), New York, New York, United States",/species/pursan/US-NY
 Purple Sandpiper,"Niagara Falls SP--Three Sisters Islands, Niagara, New York, United States",/species/pursan/US-NY
 Purple Sandpiper,"Niagara Falls SP--Three Sisters Islands, Niagara, New York, United States",/species/pursan/US-NY
 Purple Sandpiper,"Niagara Falls SP--Three Sisters Islands, Niagara, New York, United States",/species/pursan/US-NY
@@ -224,9 +226,10 @@ Purple Sandpiper,"Niagara Falls SP--Three Sisters Islands, Niagara, New York, Un
 Purple Sandpiper,"Niagara Falls SP--Three Sisters Islands, Niagara, New York, United States",/species/pursan/US-NY
 Dovekie,"Great Kills Park--Mudflats, Richmond, New York, United States",/species/doveki/US-NY
 Dovekie,"Montauk Point, Suffolk, New York, United States",/species/doveki/US-NY
-Thick-billed Murre,"Ceasar's Bay Bazaar, Kings, New York, United States",/species/thbmur/US-NY
 Thick-billed Murre,"Charles F. Altenkirch County Park, Southampton US-NY (40.8432,-72.4788), Suffolk, New York, United States",/species/thbmur/US-NY
 Black-headed Gull,"Plumb Beach, Kings, New York, United States",/species/bkhgul/US-NY
+Black-headed Gull,"Point Lookout, Nassau, New York, United States",/species/bkhgul/US-NY
+Black-headed Gull,"Point Lookout, Nassau, New York, United States",/species/bkhgul/US-NY
 Black-headed Gull,"Point Lookout, Nassau, New York, United States",/species/bkhgul/US-NY
 Black-headed Gull,"Point Lookout, Nassau, New York, United States",/species/bkhgul/US-NY
 Black-headed Gull,"Point Lookout--East Marina, Nassau, New York, United States",/species/bkhgul/US-NY
@@ -243,18 +246,15 @@ Lesser Black-backed Gull,"Bush Terminal Piers Park, Kings, New York, United Stat
 Lesser Black-backed Gull,"Goodale Lake, Cortland, New York, United States",/species/lbbgul/US-NY
 Lesser Black-backed Gull,"Riverfront Green Park, Westchester, New York, United States",/species/lbbgul/US-NY
 Lesser Black-backed Gull,"Sheepshead Bay, Kings, New York, United States",/species/lbbgul/US-NY
-Lesser Black-backed Gull (graellsii),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/lbbgul/US-NY
-Lesser Black-backed Gull (graellsii),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/lbbgul/US-NY
-Lesser Black-backed Gull (graellsii),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/lbbgul/US-NY
 American Herring x Lesser Black-backed Gull (hybrid),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/x01134/US-NY
 American Herring x Lesser Black-backed Gull (hybrid),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/x01134/US-NY
 American Herring x Lesser Black-backed Gull (hybrid),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/x01134/US-NY
+American Herring x Lesser Black-backed Gull (hybrid),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/x01134/US-NY
+American Herring x Lesser Black-backed Gull (hybrid),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/x01134/US-NY
 American Herring x Lesser Black-backed Gull (hybrid),"Stewart Park, Tompkins, New York, United States",/species/x01134/US-NY
 American Herring x Lesser Black-backed Gull (hybrid),"Stewart Park, Tompkins, New York, United States",/species/x01134/US-NY
 American Herring x Lesser Black-backed Gull (hybrid),"Stewart Park, Tompkins, New York, United States",/species/x01134/US-NY
 American Herring x Lesser Black-backed Gull (hybrid),"Stewart Park, Tompkins, New York, United States",/species/x01134/US-NY
-American Herring x Lesser Black-backed Gull (hybrid),"Stewart Park, Tompkins, New York, United States",/species/x01134/US-NY
-American Herring x Lesser Black-backed Gull (hybrid),"Stewart Park, Tompkins, New York, United States",/species/x01134/US-NY
 Glaucous-winged Gull,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/glwgul/US-NY
 Glaucous-winged Gull,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/glwgul/US-NY
 Glaucous-winged Gull,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/glwgul/US-NY
@@ -263,14 +263,16 @@ Glaucous-winged Gull,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, U
 Glaucous-winged Gull,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/glwgul/US-NY
 Glaucous-winged Gull,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/glwgul/US-NY
 Glaucous-winged Gull,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/glwgul/US-NY
-Glaucous-winged Gull,"Stewart Park, Tompkins, New York, United States",/species/glwgul/US-NY
+Glaucous-winged Gull,"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/glwgul/US-NY
 Iceland Gull (kumlieni/glaucoides),"BJs Wholesale Club Waterfront, Brooklyn, Kings, New York, United States",/species/y00478/US-NY
 Iceland Gull (kumlieni/glaucoides),"BJs Wholesale Club Waterfront, Brooklyn, Kings, New York, United States",/species/y00478/US-NY
 Iceland Gull,"Brooklyn Army Terminal Pier 4, Kings, New York, United States",/species/y00478/US-NY
+Iceland Gull,"Bush Terminal Piers Park, Kings, New York, United States",/species/y00478/US-NY
 Iceland Gull (kumlieni),"Bush Terminal Piers Park, Kings, New York, United States",/species/y00478/US-NY
-Iceland Gull,"Ceasar's Bay Bazaar, Kings, New York, United States",/species/y00478/US-NY
-Iceland Gull,"Ceasar's Bay Bazaar, Kings, New York, United States",/species/y00478/US-NY
 Iceland Gull (kumlieni),"Ceasar's Bay Bazaar, Kings, New York, United States",/species/y00478/US-NY
+Iceland Gull (kumlieni),"Ceasar's Bay Bazaar, Kings, New York, United States",/species/y00478/US-NY
+Iceland Gull,"Ceasar's Bay Bazaar, Kings, New York, United States",/species/y00478/US-NY
+Iceland Gull,"Ceasar's Bay Bazaar, Kings, New York, United States",/species/y00478/US-NY
 Iceland Gull (kumlieni/glaucoides),"Floyd Bennett Field, Kings, New York, United States",/species/y00478/US-NY
 Iceland Gull (kumlieni/glaucoides),"Floyd Bennett Field, Kings, New York, United States",/species/y00478/US-NY
 Iceland Gull (kumlieni/glaucoides),"Floyd Bennett Field, Kings, New York, United States",/species/y00478/US-NY
@@ -283,24 +285,18 @@ Iceland Gull,"New Creek Watershed, Olympia Blvd. bridge & marsh, Richmond, New Y
 Iceland Gull,"Old Field Point and Lighthouse, Suffolk, New York, United States",/species/y00478/US-NY
 Iceland Gull,"Pier 44 Waterfront Garden, Kings, New York, United States",/species/y00478/US-NY
 Iceland Gull,"Robert Moses SP--East End of Field 2, Suffolk, New York, United States",/species/y00478/US-NY
-Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
 Iceland Gull (thayeri/kumlieni),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (thayeri/kumlieni),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (thayeri/kumlieni),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (thayeri/kumlieni),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (thayeri/kumlieni),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
-Iceland Gull (thayeri/kumlieni),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
+Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
+Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
+Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
+Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
+Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
+Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
+Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
+Iceland Gull (Thayer's),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
 Iceland Gull (thayeri/kumlieni),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
 Iceland Gull (thayeri/kumlieni),"Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",/species/y00478/US-NY
 Iceland Gull (Thayer's),"Stewart Park, Tompkins, New York, United States",/species/y00478/US-NY
-Least Tern,"Caumsett SP, Suffolk, New York, United States",/species/leater1/US-NY
 Red-necked Grebe,"City Island, Belden Point, Bronx, New York, United States",/species/rengre/US-NY
 Red-necked Grebe,"City Island, Belden Point, Bronx, New York, United States",/species/rengre/US-NY
 Red-necked Grebe,"City Island, Belden Point, Bronx, New York, United States",/species/rengre/US-NY
@@ -311,17 +307,17 @@ Red-necked Grebe,"Pelham Bay Park--Orchard Beach & parking lot, Bronx, New York,
 Red-necked Grebe,"Pelham Bay Park--Orchard Beach & parking lot, Bronx, New York, United States",/species/rengre/US-NY
 Red-necked Grebe,"Pelham Bay Park--Twin Islands, Bronx, New York, United States",/species/rengre/US-NY
 Pacific Loon,"Jones Beach SP--West End, Nassau, New York, United States",/species/pacloo/US-NY
-Great Egret,"2260 Elmwood Ave, Kenmore US-NY (42.9587,-78.8786), Erie, New York, United States",/species/greegr/US-NY
 Black Vulture,"BLVU, Herkimer, New York, United States",/species/blkvul/US-NY
 Black Vulture,"Inwood Hill Park, New York, New York, United States",/species/blkvul/US-NY
 Black Vulture,"Inwood Hill Park, New York, New York, United States",/species/blkvul/US-NY
+Black Vulture,"L. F. Hosp. Parking Lot, Herkimer, New York, United States",/species/blkvul/US-NY
 Black Vulture,"Lewiston Marina and Boat Ramp, Niagara, New York, United States",/species/blkvul/US-NY
 Black Vulture,"St. Peters RC Church, Niagara, New York, United States",/species/blkvul/US-NY
 Black Vulture,"St. Peters RC Church, Niagara, New York, United States",/species/blkvul/US-NY
 Black Vulture,"St. Peters RC Church, Niagara, New York, United States",/species/blkvul/US-NY
 Black Vulture,"St. Peters RC Church, Niagara, New York, United States",/species/blkvul/US-NY
 Turkey Vulture,"595–699 Earlville Rd, Hamilton US-NY 42.75477, -75.53125, Madison, New York, United States",/species/turvul/US-NY
-Osprey,"2260 Elmwood Ave, Kenmore US-NY (42.9587,-78.8786), Erie, New York, United States",/species/osprey/US-NY
+Osprey,"Randalls Island, New York, New York, United States",/species/osprey/US-NY
 Osprey,"Western Turnpike Golf Course, Guilderland US-NY (42.7019,-73.9187), Albany, New York, United States",/species/osprey/US-NY
 Golden Eagle,"2258 New York 5, Fort Johnson, New York, US (42.965, -74.264), Montgomery, New York, United States",/species/goleag/US-NY
 Golden Eagle,"2404 Boyd Road, Avon, New York, US (42.893, -77.793), Livingston, New York, United States",/species/goleag/US-NY
@@ -334,11 +330,11 @@ American Goshawk,"Jones Beach SP--West End, Nassau, New York, United States",/sp
 American Goshawk,"Jones Beach SP--West End, Nassau, New York, United States",/species/norgos/US-NY
 American Goshawk,"Jones Beach SP--West End 2, Nassau, New York, United States",/species/norgos/US-NY
 American Goshawk,"Jones Beach SP--West End 2, Nassau, New York, United States",/species/norgos/US-NY
+American Goshawk,"Jones Beach SP--West End 2, Nassau, New York, United States",/species/norgos/US-NY
 American Goshawk,"Jones Beach State Park, Nassau, New York, United States",/species/norgos/US-NY
 American Goshawk,"Jones Beach State Park, Nassau, New York, United States",/species/norgos/US-NY
 Bald Eagle,"Coney Island Creek--Leon S. Kaiser Park, Kings, New York, United States",/species/baleag/US-NY
 Bald Eagle,"Floyd Bennett Field, Kings, New York, United States",/species/baleag/US-NY
-Broad-winged Hawk,"35 Pleasure Drive, Harris, New York, US (41.722, -74.728), Sullivan, New York, United States",/species/brwhaw/US-NY
 Broad-winged Hawk,"Binghamton University Nature Preserve, Broome, New York, United States",/species/brwhaw/US-NY
 Broad-winged Hawk,"Binghamton University Nature Preserve, Broome, New York, United States",/species/brwhaw/US-NY
 Red-shouldered Hawk,"Anderson Hill Candor, Tioga, New York, United States",/species/reshaw/US-NY
@@ -360,15 +356,16 @@ Red-tailed Hawk (abieticola),"Shawangunk Grasslands NWR , Ulster, New York, Unit
 Red-tailed Hawk (abieticola),"Shawangunk Grasslands NWR , Ulster, New York, United States",/species/rethaw/US-NY
 Red-tailed Hawk (abieticola),"Shawangunk Grasslands NWR , Ulster, New York, United States",/species/rethaw/US-NY
 Red-tailed Hawk (abieticola),"Shawangunk Grasslands NWR , Ulster, New York, United States",/species/rethaw/US-NY
-Rough-legged Hawk,"Cedar Beach, general area, Suffolk, New York, United States",/species/rolhaw/US-NY
 Eastern Screech-Owl,"Inwood Hill Park, New York, New York, United States",/species/easowl1/US-NY
 Barred Owl,"Fishers Island, Suffolk, New York, United States",/species/brdowl/US-NY
 Barred Owl,"Fishers Island, Suffolk, New York, United States",/species/brdowl/US-NY
-Short-eared Owl,"5200–5298 McIntosh Rd, Campbell US-NY 42.24652, -77.29327, Steuben, New York, United States",/species/sheowl/US-NY
 Short-eared Owl,"Floyd Bennett Field, Kings, New York, United States",/species/sheowl/US-NY
+Short-eared Owl,"Jones Beach SP--West End, Nassau, New York, United States",/species/sheowl/US-NY
 Short-eared Owl,"Miner Farm Road, Clinton, New York, United States",/species/sheowl/US-NY
+Yellow-bellied Sapsucker,"Hamilton College (Campus Grounds), Oneida, New York, United States",/species/yebsap/US-NY
 Red-headed Woodpecker,"142-147 Freese Road, Ithaca, New York, US (42.463, -76.45), Tompkins, New York, United States",/species/rehwoo/US-NY
 Red-headed Woodpecker,"142-147 Freese Road, Ithaca, New York, US (42.463, -76.45), Tompkins, New York, United States",/species/rehwoo/US-NY
+Red-headed Woodpecker,"Freese Rd., Dryden, Tompkins, New York, United States",/species/rehwoo/US-NY
 Red-headed Woodpecker,"Freese Rd., Dryden, Tompkins, New York, United States",/species/rehwoo/US-NY
 Red-headed Woodpecker,"Freese Rd., Dryden, Tompkins, New York, United States",/species/rehwoo/US-NY
 Red-headed Woodpecker,"Marshlands Conservancy, Westchester, New York, United States",/species/rehwoo/US-NY
@@ -378,6 +375,9 @@ Red-headed Woodpecker,"Marshlands Conservancy, Rye US-NY 40.95593, -73.70380, We
 Peregrine Falcon,"575 E Main St, Little Falls US-NY 43.04367, -74.85742, Herkimer, New York, United States",/species/perfal/US-NY
 Peregrine Falcon,"Apalachin Boat Ramp, Tioga, New York, United States",/species/perfal/US-NY
 Peregrine Falcon,"Little Falls - South, Herkimer, New York, United States",/species/perfal/US-NY
+Eastern Phoebe,"Hilltop Hanover Farm and Environmental Center, Westchester, New York, United States",/species/easpho/US-NY
+Eastern Phoebe,"Wallkill Valley Rail Trail, Binnewater Ln, Ulster, New York, United States",/species/easpho/US-NY
+Eastern Phoebe,"_Satterlee Hill & RR tracks, Allegany, New York, United States",/species/easpho/US-NY
 Northern Shrike,"2800-3098 Thorpe Road, Seneca Falls, New York, US (42.883, -76.788), Seneca, New York, United States",/species/norshr4/US-NY
 Northern Shrike,"2881–3051 Thorpe Rd, Seneca Falls US-NY (42.8855,-76.7875), Seneca, New York, United States",/species/norshr4/US-NY
 Northern Shrike,"6071–6099 Corporate Dr, East Syracuse US-NY 43.10596, -76.08770, Onondaga, New York, United States",/species/norshr4/US-NY
@@ -393,8 +393,6 @@ Fish Crow,"Burger King Parking Lot, Jefferson, New York, United States",/species
 Fish Crow,"Cannon Hole (Barton Landing), Tioga, New York, United States",/species/fiscro/US-NY
 Fish Crow,"Minetto Bridge, Oswego, New York, United States",/species/fiscro/US-NY
 Fish Crow,"Old Stone Chimney, Niagara, New York, United States",/species/fiscro/US-NY
-Fish Crow,"Old Stone Chimney, Niagara, New York, United States",/species/fiscro/US-NY
-Fish Crow,"Unity Island--North End, Erie, New York, United States",/species/fiscro/US-NY
 Horned Lark,"Inwood Hill Park, New York, New York, United States",/species/horlar/US-NY
 Tree Swallow,"Kingsborough Community College, Kings, New York, United States",/species/treswa/US-NY
 Tree Swallow,"Kingsborough Community College, Kings, New York, United States",/species/treswa/US-NY
@@ -402,33 +400,32 @@ Ruby-crowned Kinglet,"Oakwood Cemetery, Syracuse, Onondaga, New York, United Sta
 Gray Catbird,"3 Acres, Orleans, New York, United States",/species/grycat/US-NY
 Gray Catbird,"3 Acres, Orleans, New York, United States",/species/grycat/US-NY
 Gray Catbird,"Suggett Park, Cortland, New York, United States",/species/grycat/US-NY
-Hermit Thrush,"5631 Van Allen Rd, Belfast US-NY (42.3077,-78.0526), Allegany, New York, United States",/species/herthr/US-NY
 Hermit Thrush,"Parking area Crusoe Island Cemetary, Wayne, New York, United States",/species/herthr/US-NY
 Evening Grosbeak,"1 Winners Circle, Ithaca, New York, US (42.429, -76.473), Tompkins, New York, United States",/species/evegro/US-NY
 Evening Grosbeak,"1085 Scott Greene Road, Roxbury, New York, US, Delaware, New York, United States",/species/evegro/US-NY
-Evening Grosbeak,"149 Fox Hill Rd, Northville US-NY (43.1993,-74.0621), Saratoga, New York, United States",/species/evegro/US-NY
+Evening Grosbeak,"11069 State Route 12 - yard around house, Oneida, New York, United States",/species/evegro/US-NY
 Evening Grosbeak,"2700 Centerline Road, Varysburg, Wyoming, New York, United States",/species/evegro/US-NY
 Evening Grosbeak,"2700 Centerline Road, Varysburg, Wyoming, New York, United States",/species/evegro/US-NY
 Evening Grosbeak,"Champlain Canal--South Old Rte. 4, Washington, New York, United States",/species/evegro/US-NY
 Evening Grosbeak (Eastern or type 3),"Dirty Bird Ranch (Private), Chemung, New York, United States",/species/evegro/US-NY
 Evening Grosbeak (Eastern or type 3),"Dirty Bird Ranch (Private), Chemung, New York, United States",/species/evegro/US-NY
+Evening Grosbeak,"Frascatore feeding sight, Herkimer, New York, United States",/species/evegro/US-NY
+Evening Grosbeak,"Home, Oswego, New York, United States",/species/evegro/US-NY
 Evening Grosbeak,"Home, Oswego, New York, United States",/species/evegro/US-NY
 Evening Grosbeak (Eastern or type 3),"Prospect Street, Truxton (42.714, -76.027), Cortland, New York, United States",/species/evegro/US-NY
 Evening Grosbeak (Eastern or type 3),"Prospect Street, Truxton (42.714, -76.027), Cortland, New York, United States",/species/evegro/US-NY
-Evening Grosbeak,"Scott home, Cortland, New York, United States",/species/evegro/US-NY
-Evening Grosbeak,"Shindagin Hollow SF--Shindagin Hollow Rd. pavement end, Tompkins, New York, United States",/species/evegro/US-NY
-Evening Grosbeak (Eastern or type 3),"Tubbs Hill Rd, Richford, Tioga, New York, United States",/species/evegro/US-NY
-Evening Grosbeak (Eastern or type 3),"Tubbs Hill Rd, Richford, Tioga, New York, United States",/species/evegro/US-NY
 Evening Grosbeak (Eastern or type 3),"West River Rd., Marathon, Cortland, New York, United States",/species/evegro/US-NY
 Evening Grosbeak (Eastern or type 3),"West River Rd., Marathon, Cortland, New York, United States",/species/evegro/US-NY
-Pine Grosbeak,"Webster Dog park, Monroe, New York, United States",/species/pingro/US-NY
+Pine Grosbeak,"Webster Park--Campground area, Monroe, New York, United States",/species/pingro/US-NY
+Pine Grosbeak,"Webster Park--Campground area, Monroe, New York, United States",/species/pingro/US-NY
+Pine Grosbeak,"Webster Park--Campground area, Monroe, New York, United States",/species/pingro/US-NY
+Pine Grosbeak,"Webster Park--Campground area, Monroe, New York, United States",/species/pingro/US-NY
 Pine Grosbeak,"Webster Park--Campground area, Monroe, New York, United States",/species/pingro/US-NY
 Pine Grosbeak,"Whiting Rd. Nature Preserve, Monroe, New York, United States",/species/pingro/US-NY
 Pine Grosbeak,"Whiting Rd. Nature Preserve, Monroe, New York, United States",/species/pingro/US-NY
 Pine Grosbeak,"Whiting Rd. Nature Preserve, Monroe, New York, United States",/species/pingro/US-NY
 Pine Grosbeak,"Whiting Road Nature Preserve, Webster US-NY 43.24698, -77.46895, Monroe, New York, United States",/species/pingro/US-NY
-Purple Finch,"349 St Johns Pl, New York US-NY 40.67431, -73.96602, Kings, New York, United States",/species/purfin/US-NY
-Purple Finch,"5631 Van Allen Rd, Belfast US-NY (42.3077,-78.0526), Allegany, New York, United States",/species/purfin/US-NY
+Purple Finch,"3663 Haskell Valley View Road, Cuba, New York, US (42.15, -78.285), Allegany, New York, United States",/species/purfin/US-NY
 Purple Finch,"Backyard, Suffolk, New York, United States",/species/purfin/US-NY
 Purple Finch,"Fuller Road yard, Niagara, New York, United States",/species/purfin/US-NY
 Purple Finch,"Fuller Road yard, Niagara, New York, United States",/species/purfin/US-NY
@@ -436,19 +433,22 @@ Purple Finch,"Fuller Road yard, Niagara, New York, United States",/species/purfi
 Purple Finch,"Fuller Road yard, Niagara, New York, United States",/species/purfin/US-NY
 Purple Finch,"Quaker Bridge, Westchester, New York, United States",/species/purfin/US-NY
 Purple Finch,"Quaker Bridge, Westchester, New York, United States",/species/purfin/US-NY
+Purple Finch,"Quaker Bridge, Westchester, New York, United States",/species/purfin/US-NY
 Red Crossbill (Northeastern or type 12),"475 Ensign Pond Rd, North Hudson US-NY 43.99374, -73.66986, Essex, New York, United States",/species/redcro/US-NY
-Red Crossbill,"Long Pond SF - Grasslands NY41, Chenango, New York, United States",/species/redcro/US-NY
+Red Crossbill (Northeastern or type 12),"Michigan Hollow, silo house, Tioga, New York, United States",/species/redcro/US-NY
 Red Crossbill (Northeastern or type 12),"Morgan Hill SF--Shackham Rd., north (Onondaga Co.), Onondaga, New York, United States",/species/redcro/US-NY
 Red Crossbill (Northeastern or type 12),"Morgan Hill SF--Shackham Rd., north (Onondaga Co.), Onondaga, New York, United States",/species/redcro/US-NY
 Red Crossbill (Ponderosa Pine or type 2),"Morgan Hill SF--Shackham Rd., north (Onondaga Co.), Onondaga, New York, United States",/species/redcro/US-NY
 Red Crossbill (Ponderosa Pine or type 2),"Morgan Hill SF--Shackham Rd., north (Onondaga Co.), Onondaga, New York, United States",/species/redcro/US-NY
+Red Crossbill,"Rothwood Drive, Webster, New York, US (43.25, -77.448), Monroe, New York, United States",/species/redcro/US-NY
 Red Crossbill (Northeastern or type 12),"Shackham Road, Tully (42.779, -76.016), Cortland, New York, United States",/species/redcro/US-NY
 Red Crossbill (Northeastern or type 12),"Shackham Road, Tully (42.779, -76.016), Cortland, New York, United States",/species/redcro/US-NY
-Red Crossbill,"Tubbs Hill Rd, Richford, Tioga, New York, United States",/species/redcro/US-NY
 Red Crossbill,"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
 Red Crossbill,"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
 Red Crossbill,"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
 Red Crossbill,"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
+Red Crossbill,"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
+Red Crossbill (Northeastern or type 12),"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
 Red Crossbill,"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
 Red Crossbill,"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
 Red Crossbill,"Webster Park--Campground area, Monroe, New York, United States",/species/redcro/US-NY
@@ -466,8 +466,8 @@ Chipping Sparrow,"US-NY-Tomkins Cove-9 Dunderberg Rd, Rockland, New York, United
 Chipping Sparrow,"US-NY-Tomkins Cove-9 Dunderberg Rd, Rockland, New York, United States",/species/chispa/US-NY
 Chipping Sparrow,"Windcrest Drive, Manorville, Suffolk, New York, United States",/species/chispa/US-NY
 Chipping Sparrow,"Windcrest Drive, Manorville, Suffolk, New York, United States",/species/chispa/US-NY
+Chipping Sparrow,"Windcrest Drive, Manorville, Suffolk, New York, United States",/species/chispa/US-NY
 Field Sparrow,"Central Park--Compost Area, New York, New York, United States",/species/fiespa/US-NY
-Field Sparrow,"Klecha pasture on Moran Rd, Chenango, New York, United States",/species/fiespa/US-NY
 Field Sparrow,"Randalls Island, New York, New York, United States",/species/fiespa/US-NY
 Field Sparrow,"Randalls Island, New York, New York, United States",/species/fiespa/US-NY
 Field Sparrow,"Randalls Island, New York, New York, United States",/species/fiespa/US-NY
@@ -475,13 +475,13 @@ Field Sparrow,"Randalls Island, New York, New York, United States",/species/fies
 Field Sparrow,"Randalls Island--NW fields and shoreline, New York, New York, United States",/species/fiespa/US-NY
 American Tree Sparrow,"Randalls Island, New York, New York, United States",/species/amtspa/US-NY
 American Tree Sparrow,"Randalls Island, New York, New York, United States",/species/amtspa/US-NY
+Dark-eyed Junco (cismontanus),"Mills Family Yard/Feeders Sheridan Drive, Tonawanda Town, New York, US, Erie, New York, United States",/species/daejun/US-NY
+White-crowned Sparrow,"8315 Pennystreet Rd, Rome US-NY 43.26429, -75.42983, Oneida, New York, United States",/species/whcspa/US-NY
 White-crowned Sparrow,"Central Park, New York US-NY (40.7847,-73.9672), New York, New York, United States",/species/whcspa/US-NY
 White-crowned Sparrow,"Nichols- End of River Rd., Tioga, New York, United States",/species/whcspa/US-NY
-Eastern Towhee,"Cayuga Heights--Country Club Rd., Tompkins, New York, United States",/species/eastow/US-NY
-Eastern Towhee,"Home, Livingston, New York, United States",/species/eastow/US-NY
+Eastern Towhee,"NY - Ithaca, 212 Tareyton, Tompkins, New York, United States",/species/eastow/US-NY
 Eastern Towhee,"NY Ontario: Home, Ontario, New York, United States",/species/eastow/US-NY
 Eastern Towhee,"NY Ontario: Home, Ontario, New York, United States",/species/eastow/US-NY
-Eastern Towhee,"Pond side, Erie, New York, United States",/species/eastow/US-NY
 Eastern Towhee,"Pond side, Erie, New York, United States",/species/eastow/US-NY
 Eastern Towhee,"n. Tareyton Dr (212 n. to park; 0.27km), Tompkins, New York, United States",/species/eastow/US-NY
 Eastern Towhee,"n. Tareyton Dr (212 n. to park; 0.27km), Tompkins, New York, United States",/species/eastow/US-NY
